@@ -1,0 +1,10 @@
+# factories VS fixtures
+my_product:
+  name: Hello
+  tagline: Good morning!
+skello:
+  name: "Skello"
+  tagline: "Manage your staff calendar"
+roadstr:
+  name: "Roadstr"
+  tagline: "Rent a vintage car"
